@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BlazorDbzPersonagem
 
 Aplicação Blazor (.NET 10) que consome a [Dragon Ball API](https://dragonball-api.com).
@@ -23,3 +24,6 @@ e digitar um id, como `1` (Goku) ou `2` (Vegeta).
 - `Models/Personagem.cs`: classes que mapeiam o JSON da API (`Personagem`, `Planeta`, `Transformacao`)
 - `Components/Pages/Home.razor`: página com o campo de id, a chamada à API e a exibição dos dados
 - `Program.cs`: registro do `HttpClient` com o endereço base da API
+=======
+# BlazorDbzPersonagem
+>>>>>>> 8924492ec8d730dc2bc74f4c9c67ce86e2f3e84b
